@@ -90,5 +90,5 @@ const reviews = [
     currentItem = Math.floor(Math.random() * reviews.length);
     showPerson(currentItem);
   });
-  Footer
+  
   
